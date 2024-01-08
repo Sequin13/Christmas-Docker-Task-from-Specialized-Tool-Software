@@ -13,7 +13,7 @@ This FastAPI project is a simple Elf Delivery System that allows you to manage p
 1. Clone the repository:
 
     ```bash
-    git clone <https://github.com/Sequin13/Christmas-Docker-Task-from-Specialized-Tool-Software.git>
+    git clone https://github.com/Sequin13/Christmas-Docker-Task-from-Specialized-Tool-Software.git
     cd <repository-directory>
     ```
 
